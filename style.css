@@ -10,7 +10,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    font-family: Van(--fonte-principal);
+    font-family: Var(--fonte-principal);
     font-size: 16px;
     font-weight:400;
 
