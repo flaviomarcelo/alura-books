@@ -14,3 +14,23 @@
   font-weight: 500;
   margin: 1em 0;
 }
+
+.banner-pesquisa{
+  background-color: trabsparent;
+  border: 1px solid Var (--branco);
+  color: Var (--branco);
+  border-radius: 24px;
+  padding: 1em;
+  width: 100%;
+}
+
+.banenr-pesqyusa::placeholder{
+  font-family: Var (--fonte-principal);
+  font-size: 14px;
+  font-weight: 400;
+  text-aling: center;
+  color: Var (--branco);
+  background: url ("../img/Lupa.svg")no-repeat;
+  backrgound: 1em;
+}
+  
