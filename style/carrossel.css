@@ -1,1 +1,13 @@
+.carrossel-titulo{
+  color: var (--branco);
+  text-aling: center;
+  text-transform: uppercase;
+  background-color:(--branco);
+  font-size: 18px;
+  font-weight: 700;
+  padding:1em 0  0.5em 0;
+}
 
+.swpier-slide img{
+  width: 100%;
+}
